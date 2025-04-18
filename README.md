@@ -66,6 +66,9 @@ Best Performers:
 - Expand dataset for external validation and generalization.
 - Incorporate continuous patient monitoring for dynamic risk updates.
 
+#Project Presentation (YouTube)
+https://youtu.be/lrpo3K8k9no 
+
 ## Contributors
 👩‍💻 Mary Nnipaa Meteku  
 Group 22 — Artificial Intelligence in Healthcare
