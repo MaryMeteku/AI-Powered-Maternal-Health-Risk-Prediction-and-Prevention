@@ -78,4 +78,4 @@ This project is for academic and research purposes only. Contact the contributor
 
 - Kaggle for dataset access
 - Researchers: Islam et al. (2022), Lundberg & Lee (2017), Chen & Guestrin (2016)
-- Support from course instructors and peers
+- Support from course instructor and peers
